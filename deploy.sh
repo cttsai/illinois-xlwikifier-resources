@@ -1,6 +1,6 @@
 grp=edu.illinois.cs.cogcomp
 artifact=illinois-xlwikifier-resources
-version=1.0.8
+version=1.0.9
 file=$artifact-$version.jar
 
 # second create the jar file
